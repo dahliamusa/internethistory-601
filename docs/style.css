@@ -5,8 +5,9 @@
 }
 
 .carousel-caption{
-    position: absolute;
+    position: relative;
     top: 50%;
+    bottom: 50%;
     text-transform: uppercase;
     width: 100%;
     right: 0;
